@@ -24,9 +24,10 @@ h2 {
 }
 
 header {
-  background-color: #4caf50;
+  background-color: #74b576;
   color: white;
   padding: 10px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 header h1 {
@@ -44,8 +45,7 @@ ol {
 }
 
 footer {
-  background-color: #333;
-  color: white;
+  color: #444;
   text-align: center;
   padding: 5px 0;
 }
